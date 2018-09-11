@@ -1,0 +1,5 @@
+[http]
+	sslVerify = false
+[user]
+	mail = student161.domain.suffix
+	name = student161
